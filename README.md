@@ -21,6 +21,11 @@ This document analyzes the NDVI and SI2 salinity index in a region of northeaste
 
 Copy and paste the code into the Earth Engine platform, changing, according to preference, an uploaded shapefile or a created polygon.
 
+## Charts Generated
+<img width="1326" height="533" alt="ee-chart" src="https://github.com/user-attachments/assets/d3b03732-ce1e-4b16-a5a2-f02bdb265f2e" />
+<img width="1326" height="533" alt="ee-chart (1)" src="https://github.com/user-attachments/assets/d550057e-bbf9-46f9-89ba-4b279924dd0c" />
+
+
 ## Author
 
 Maria Marcela Gomez
