@@ -3,7 +3,7 @@
 ## Proyect Overview
 This document analyzes the NDVI and SI2 salinity index in a region of northeastern Argentina using the Sentinel-2 Harmonized collection to create index bands and subsequently time series from 2016 onwards.
 
-## Objetives
+## Objectives
 
 - Extract satelital data from S2 Colecction
 - Apply functions to create masks and indices from reflectance data
